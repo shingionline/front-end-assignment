@@ -1,0 +1,9 @@
+body {
+    background-color: #2a3647 !important;
+}
+
+.container {
+    max-width: 920px !important;
+}
+
+label {font-weight: bold; margin-bottom:0.8rem}
